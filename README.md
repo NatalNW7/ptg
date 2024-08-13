@@ -1,2 +1,2 @@
-# ptg
+# PTG
 PTG will be projet template generator for python and go
